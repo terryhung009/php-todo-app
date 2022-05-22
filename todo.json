@@ -1,20 +1,11 @@
 {
-    "Todo item 1": {
-        "completed": true
-    },
-    "Todo item 2": {
-        "completed": true
-    },
     "buy milk": {
-        "completed": false
-    },
-    "buy fan": {
-        "completed": false
+        "completed": true
     },
     "buy water": {
         "completed": false
     },
-    "buy beer": {
+    "buy bread": {
         "completed": false
     }
 }
